@@ -1,0 +1,10 @@
+{
+    "entryPoint": "start-here.sh",
+    "files": [
+        {
+            "url": "http://example.com/testbasher/runner/start-here-${version}.sh",
+            "localPath": "start-here.sh",
+            "sha256hash": "7d869044f50caa5aa1de7b783e001df190eaec24902729a1d64e532998a24bff"
+        }
+    ]
+}
